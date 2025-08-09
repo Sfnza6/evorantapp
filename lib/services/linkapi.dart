@@ -1,5 +1,5 @@
 class AppLink {
-  static const String server = "http://192.168.1.106/iforenta_api";
+  static const String server = "http://192.168.204.1/iforenta_api";
 
   static const String signUp = "$server/register.php";
   static const String login = "$server/login.php";
